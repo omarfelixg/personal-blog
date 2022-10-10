@@ -2,7 +2,7 @@
 This blog is based on Omar Felix Gamboa's personal information such as: social networks, education and personal projects.
 
 ## Technologies:
-- Frontend: HTML, CSS
+- Frontend: HTML, CSS, SCSS
 
 ## Installation
 
